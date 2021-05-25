@@ -4,7 +4,9 @@ hello-world
 <!DOCTYPE html>
 <html>
 <html lang="{lang}">
-
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
 
 
 <div id="border">
