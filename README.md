@@ -1,11 +1,12 @@
 # tesing1
 learning to push code
 hello-world
+
 <!DOCTYPE html>
 <html>
 <html lang="{lang}">
 	<head>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" href="styles.css">
 	</head>
 
 
@@ -14,5 +15,4 @@ hello-world
   <button id="btn">Toggle</button>
 </div>
 
-<link href="kyle3580.github.io/css/style.css" rel="stylesheet">
   </html>
